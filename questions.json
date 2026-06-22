@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["A. Central Processing Unit", "B. Computer Processing Unit", "C. Central Program Unit", "D. Control Processing Unit"],
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which language is mainly used for AI?",
+    "options": ["A. Python", "B. HTML", "C. CSS", "D. SQL"],
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["A. Random Access Memory", "B. Read Access Memory", "C. Run Access Memory", "D. Rapid Access Machine"],
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who developed Python?",
+    "options": ["A. Elon Musk", "B. Guido van Rossum", "C. Bill Gates", "D. Mark Zuckerberg"],
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["A. O(n)", "B. O(log n)", "C. O(n^2)", "D. O(1)"],
+    "answer": "B",
+    "difficulty": "hard"
+  }
+]
