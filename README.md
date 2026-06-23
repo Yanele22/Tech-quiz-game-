@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Tech-quiz-game-
+
+>>>>>>> b51b282277e5797716548682f512c8604d912eb9
 *                                             🎮 🎮 Quiz Challenge 🎮🎮
 
 
